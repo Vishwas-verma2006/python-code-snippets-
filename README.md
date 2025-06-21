@@ -1,2 +1,2 @@
-# 1st-python-
-only for testing files 
+# 1st-python file-
+python codes 
